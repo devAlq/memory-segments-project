@@ -28,7 +28,7 @@ int main() {   // text segment
     return 0; // text segment
 }
 
-'''
+
 OUTPUT
 In Main Function
 Global Variable: 100
